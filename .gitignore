@@ -31,3 +31,6 @@ Thumbs.db
 *.swp
 *.swo
 *.tmp
+
+# Database dumps (optional: keep schema.sql but ignore data dumps)
+schema.sql
